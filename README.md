@@ -2,169 +2,35 @@
 
 <div align="center">
 
-  ![SCR-20250701-cxdl](https://github.com/user-attachments/assets/91e08d13-60f3-4211-84b7-33ed4c7267b1)
+![SCR-20250701-cxdl](https://github.com/user-attachments/assets/91e08d13-60f3-4211-84b7-33ed4c7267b1)
 
-  ### The Ultimate Collection of Claude Desktop Extensions
+![claude-extensions-showcase](./assets/claude-extensions-showcase.png)
+
+### 🎯 **500+ Extensions • One-Click Install • Zero Config**
   
-  [![GitHub Stars](https://img.shields.io/github/stars/samihalawa/awesome-claude-dxt?style=for-the-badge)](https://github.com/samihalawa/awesome-claude-dxt/stargazers)
-  [![Contributors](https://img.shields.io/github/contributors/samihalawa/awesome-claude-dxt?style=for-the-badge)](https://github.com/samihalawa/awesome-claude-dxt/graphs/contributors)
-  [![Last Updated](https://img.shields.io/github/last-commit/samihalawa/awesome-claude-dxt?style=for-the-badge)](https://github.com/samihalawa/awesome-claude-dxt/commits/main)
-  [![License](https://img.shields.io/github/license/samihalawa/awesome-claude-dxt?style=for-the-badge)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/samihalawa/awesome-claude-dxt?style=for-the-badge)](https://github.com/samihalawa/awesome-claude-dxt/stargazers)
+[![Total Extensions](https://img.shields.io/badge/Extensions-500+-blue?style=for-the-badge)](#)
+[![Categories](https://img.shields.io/badge/Categories-16-green?style=for-the-badge)](#)
+[![License](https://img.shields.io/github/license/samihalawa/awesome-claude-dxt?style=for-the-badge)](LICENSE)
+
 </div>
 
-> 🎯 **The definitive, community-driven collection of Claude Desktop Extensions (.dxt files), tools, resources, and everything you need to supercharge your Claude Desktop experience!**
-
-**📢 Just Launched!** Claude Desktop Extensions revolutionize how you interact with Claude by making MCP server installation as simple as clicking a button. No more complex setups, dependency management, or manual configurations!
-
-## 📖 Table of Contents
-
-- [🚀 Quick Start](#-quick-start)
-- [💡 What are Claude Desktop Extensions?](#-what-are-claude-desktop-extensions)
-- [📚 Official Resources](#-official-resources)
-- [🎯 Featured Extensions](#-featured-extensions)
-- [🗂️ Extensions by Category](#️-extensions-by-category)
-  - [⚙️ Development Tools](#️-development-tools)
-  - [📁 File Management](#-file-management)
-  - [🖥️ System Tools](#️-system-tools)
-  - [🌐 Web Services](#-web-services)
-  - [💬 Messaging](#-messaging)
-  - [🗄️ Databases](#️-databases)
-  - [📊 Analytics](#-analytics)
-  - [🤖 AI Systems](#-ai-systems)
-  - [🔧 MCP Tools](#-mcp-tools)
-  - [🔌 API Integrations](#-api-integrations)
-  - [📈 Data Analysis](#-data-analysis)
-  - [🧠 Knowledge Base](#-knowledge-base)
-  - [🎨 Media Creation](#-media-creation)
-  - [⚡ Productivity](#-productivity)
-  - [💼 Professional Apps](#-professional-apps)
-  - [💰 Finance](#-finance)
-  - [📝 Examples](#-examples)
-- [🛠️ Development Tools](#️-development-tools-1)
-- [📦 Packaging & Management](#-packaging--management)
-- [📚 Documentation & Tutorials](#-documentation--tutorials)
-- [🌟 How to Contribute](#-how-to-contribute)
-- [👥 Community](#-community)
-- [🔄 Recent Updates](#-recent-updates)
-- [🎯 Roadmap](#-roadmap)
-
----
+**📦 Download → Double-click → Install → Done!** Transform Claude Desktop with powerful extensions for development, databases, AI, web services, and more.
 
 ## 🚀 Quick Start
+1. **Download** any `.dxt` file below → **Double-click** → **Install** → **Done!**
+2. Optional: `npm install -g @anthropic-ai/dxt` for developers
 
-### Installation Steps
-1. **Update Claude Desktop** to the latest version (required for .dxt support)
-2. **Download** any `.dxt` file from the extensions below
-3. **Double-click** the `.dxt` file to open with Claude Desktop
-4. **Click "Install"** - that's it! No configuration needed
-5. **Start using** your new extension immediately
-
-### First-Time Setup
-```bash
-# Optional: Install the DXT CLI tools for developers
-npm install -g @anthropic-ai/dxt
-
-# Create your first extension
-dxt init my-extension
-dxt pack
-```
-
----
-
-## 💡 What are Claude Desktop Extensions?
-
-Desktop Extensions (.dxt files) are **revolutionary one-click packages** that make Claude Desktop incredibly powerful by connecting it to:
-
-- 🔗 **Your local files and databases**
-- 🌐 **Web APIs and services** 
-- 🛠️ **Development tools and IDEs**
-- 📊 **Analytics and monitoring platforms**
-- 🤖 **AI models and services**
-- 💼 **Business applications**
-
-### Before Extensions vs. After Extensions
-
-| Before | After |
-|--------|-------|
-| ❌ Complex manual setup | ✅ One-click installation |
-| ❌ Dependency management headaches | ✅ Everything bundled |
-| ❌ JSON configuration editing | ✅ User-friendly configuration UI |
-| ❌ Developer tools required | ✅ Works for everyone |
-| ❌ Manual updates | ✅ Automatic updates |
-
----
-
-## 📚 Official Resources
-
-### 🏛️ Anthropic Official
-- [📢 Desktop Extensions Announcement](https://www.anthropic.com/engineering/desktop-extensions) - Official blog post introducing Desktop Extensions
-- [📋 DXT Specification](https://github.com/anthropics/dxt) - Open-source toolchain, schemas, and specifications
-- [📝 Submission Form](https://forms.gle/tyiAZvch1kDADKoP9) - Submit your extension to the official directory
-- [💡 Official Examples](https://github.com/anthropics/dxt/tree/main/examples) - Reference implementations and starter templates
-
-### 🛠️ Development Resources
-- [📦 @anthropic-ai/dxt](https://www.npmjs.com/package/@anthropic-ai/dxt) - Official packaging toolkit
-- [📖 Manifest Documentation](https://github.com/anthropics/dxt/blob/main/MANIFEST.md) - Complete manifest specification
-- [🔧 Development Guide](https://docs.anthropic.com/en/docs/build-with-claude/computer-use) - Building with Claude tools
-- [🎯 Best Practices](https://modelcontextprotocol.io/introduction) - MCP protocol documentation
-
----
+## 📚 Resources
+- [Official Announcement](https://www.anthropic.com/engineering/desktop-extensions) | [DXT Spec](https://github.com/anthropics/dxt) | [Submit Extension](https://forms.gle/tyiAZvch1kDADKoP9)
 
 ## 🎯 Featured Extensions
 
-### 🔥 Most Popular
+![extension-categories](./assets/extension-categories.png)
 
-<table>
-<tr>
-<td width="33%">
+**🔥 Most Popular**: [Memory](./servers/modelcontextprotocol/memory) • [GitHub](./servers/MCP%20Team/github) • [Docker](./servers/ckreiling/docker) • [Filesystem](./servers/modelcontextprotocol/filesystem) • [Everything Search](./servers/mamertofabian/mcp-everything-search)
 
-**🤖 AI & ML Extensions**
-- [DeepSeek R1](./servers/66julienmartin/deepseek-r1) - Advanced reasoning AI
-- [Replicate](./servers/deepfates/replicate) - Run ML models
-- [HuggingFace Spaces](./servers/evalstate/huggingface-spaces) - Access AI models
-
-</td>
-<td width="33%">
-
-**⚙️ Developer Tools**
-- [GitHub](./servers/MCP%20Team/github) - GitHub integration
-- [Docker](./servers/ckreiling/docker) - Container management
-- [Kubernetes](./servers/Flux159/kubernetes) - K8s cluster control
-
-</td>
-<td width="33%">
-
-**🌐 Web & Search**
-- [Tavily Search](./servers/tavily-ai/tavily-mcp) - AI-powered search
-- [Brave Search](./servers/modelcontextprotocol/brave-search) - Web search
-- [Firecrawl](./servers/mendableai/firecrawl-mcp-server) - Web scraping
-
-</td>
-</tr>
-</table>
-
-### ⭐ Editor's Choice
-
-| Extension | Description | Why It's Special |
-|-----------|-------------|-------------------|
-| 🧠 [Memory](./servers/modelcontextprotocol/memory) | Persistent memory across conversations | Game-changing for long-term projects |
-| 📁 [Filesystem](./servers/modelcontextprotocol/filesystem) | Secure file operations | Essential for local development |
-| 🎨 [Everything Search](./servers/mamertofabian/mcp-everything-search) | Lightning-fast file search | Windows/macOS/Linux file finding |
-| 💼 [Linear](./servers/jerhadf/linear-mcp-server) | Project management integration | Perfect for development teams |
-| 📊 [Google Sheets](./servers/felores/airtable) | Spreadsheet automation | Data analysis made simple |
-
-### 🆕 Recently Added
-
-- 🔍 [Search1API](./servers/fatwang2/search1api-mcp) - Advanced web search and crawling
-- 🎮 [Unity3D](./servers/CoderGamester/mcp-unity) - Game development integration
-- 🛡️ [Semgrep](./servers/semgrep/mcp) - Security vulnerability scanning
-- 📈 [TinyBird](./servers/tinybirdco/mcp-tinybird) - Real-time analytics
-- 🌐 [Hyperbrowser](./servers/hyperbrowserai/mcp) - Advanced web automation
-
----
-
-## Contributing
-This list is community-maintained. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+**🆕 Recent**: [Search1API](./servers/fatwang2/search1api-mcp) • [Unity3D](./servers/CoderGamester/mcp-unity) • [Semgrep](./servers/semgrep/mcp) • [TinyBird](./servers/tinybirdco/mcp-tinybird) • [Hyperbrowser](./servers/hyperbrowserai/mcp)
 
 ## 🗂️ Extensions by Category
 
