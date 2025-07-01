@@ -1,8 +1,9 @@
 # 🚀 Awesome Claude Desktop Extensions (.dxt) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <div align="center">
-  <img src="https://github.com/anthropics/dxt/raw/main/docs/assets/dxt-logo.png" alt="Claude Desktop Extensions" width="200"/>
-  
+
+  ![SCR-20250701-cxdl](https://github.com/user-attachments/assets/91e08d13-60f3-4211-84b7-33ed4c7267b1)
+
   ### The Ultimate Collection of Claude Desktop Extensions
   
   [![GitHub Stars](https://img.shields.io/github/stars/samihalawa/awesome-claude-dxt?style=for-the-badge)](https://github.com/samihalawa/awesome-claude-dxt/stargazers)
